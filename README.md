@@ -1,4 +1,4 @@
-# Be-The-Hero-Semana-Omnistack-11
+# Be The Hero
 
 ## ⚡ Tecnologias utilizadas
 <div>
